@@ -48,9 +48,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| Forever Web Store (https://github.com/Haritha-Cd/Online-Shopping-store) | 🎯 Short 1-liner description of the project | React, Node.js, MongoDB |
-| Crowed Managemnet and parking sysytem | 🧠 A project solving real-world problem | MERN |
-| (https://github.com/Haritha-Cd/Laundry-Management) | 🌍 Contributed to Laundry Managemnt System project | Java , Tailwind |
+| Forever Web Store (https://github.com/Haritha-Cd/Online-Shopping-store) || React, Node.js, MongoDB 
+| Crowed Managemnet and parking system | 🧠 A project solving real-world problem | MERN |
+| Laundry Management system (https://github.com/Haritha-Cd/Laundry-Management) | 🌍 Contributed to Laundry Managemnt System project | Java , Tailwind |
 
 ---
 
@@ -75,7 +75,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&row=1&column=6" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
 </p>
 
 ---
